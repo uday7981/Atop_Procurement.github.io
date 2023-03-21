@@ -1,0 +1,11 @@
+theme: jekyll-theme-minimal
+title: Blockchain-Powered-Procurement-System
+author: uday kiran
+email: likkikiran9247105948@gmail.com
+keywords:  "Procurement, Tenders, blockchain, gail, abhishek vispute"
+  
+gems:
+- jekyll-paginate
+- jekyll-gist
+
+
